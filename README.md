@@ -1,4 +1,4 @@
-# DePaul University Student Application Data — End-to-End Analytics Project
+# DePaul University Student Application Data - End-to-End Analytics Project
 
 ## Project Overview
 
@@ -25,7 +25,7 @@ The dataset contains 7,543 student application records from DePaul University, s
 | Week4-FinalPresentation | Final 12-Slide Presentation |
 ---
 
-## Week 1 — Data Exploration & EDA
+## Week 1 - Data Exploration & EDA
 
 **Dataset:** 7,543 rows, 80 columns, 0 duplicate rows
 
@@ -38,7 +38,7 @@ The dataset contains 7,543 student application records from DePaul University, s
 - Admissions grew 176.3% from 2023 (1,377) to 2024 (3,805)
 ---
 
-## Week 2 — Data Cleaning Report
+## Week 2 - Data Cleaning Report
 
 **17 documented cleaning steps across 6 sections**
 
@@ -53,7 +53,7 @@ The dataset contains 7,543 student application records from DePaul University, s
 - Overall data quality score improved from 2.4/5 to 4.6/5
 ---
 
-## Week 3 — Interactive Power BI Dashboard
+## Week 3 - Interactive Power BI Dashboard
 
 **Two-page interactive dashboard built in Power BI Desktop**
 
@@ -64,7 +64,7 @@ The dataset contains 7,543 student application records from DePaul University, s
 4 charts covering outreach coverage, outreach outcome breakdown, top countries by recruitment channel, and top programs by intake term.
 ---
 
-## Week 4 — Final Presentation
+## Week 4 - Final Presentation
 
 12-slide PowerPoint presentation covering the complete project journey — dataset overview, EDA findings, cleaning process, dashboard insights and actionable recommendations
 ---
@@ -93,5 +93,7 @@ The dataset contains 7,543 student application records from DePaul University, s
 
 **Enimabasi Ukpong**
 Data Analytics Intern — Excelerate
+
 www.linkedin.com/in/enimabasi-ukpong
+
 https://x.com/enimabasi
